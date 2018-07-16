@@ -1,0 +1,5 @@
+firstName,lastName,dateOfBirth,employeeId,relationshipCode,clientCode,notificationId,utcDate,tag,actionDate,buttonText,ctaType,ctaValue,ctaStatus,description,read,title
+Jack,Sparrow,1962-10-01,1049NOT01,01,1049,1049_notif_40,2018-06-27T00:00:00Z,NORMAL,,Take Action,INTERNAL,worklife.INTERNAL,,This is description. ,,This is title.
+Jack,Sparrow,1962-10-01,1049NOT01,01,1049,1049_notif_41,2018-06-27T00:00:00Z,HIGH,09/10/2018,,,,,This is description. ,,This is title.
+Jack,Sparrow,1962-10-01,1049NOT01,01,1049,1049_notif_42,2018-06-27T00:00:00Z,HIGH,09/10/2018,Take Action,HREF,wellness.HREF,,This is description. ,,This is title.
+Jack,Sparrow,1962-10-01,1049NOT01,01,1049,1049_notif_43,2018-06-27T00:00:00Z,HIGH,09/10/2018,Take Action,HREF,wellness.HREF,,This is description. ,,This is title.

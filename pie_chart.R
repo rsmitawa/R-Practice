@@ -1,0 +1,6 @@
+library(plotrix)
+v <- c(7, 7, 4, 2, 4, 2 ,3, 4)
+labels <- c('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h')
+piepercentage <- round(100*v/sum(v), 1)
+pie3D(v,labels = piepercentage, explode = 0.1, main = "Pie Chart", col = rainbow(length(v)))
+#legend("topright", labels, cex = 0.8, fill = rainbow(length(v)))

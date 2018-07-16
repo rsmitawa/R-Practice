@@ -1,0 +1,6 @@
+v <- c(5, 7, 8, 12, 10, 2, 5)
+y <- c(6, 7, 2, 5, 8, 10, 23)
+z <- c(8 , 9, 4, 3, 6, 7, 1)
+plot(v, type= 'o', col = "red")
+lines(y, type ='o', col = 'green')
+lines(z, type ='o', col = 'yellow')
